@@ -1,0 +1,23 @@
+{
+  "name": "meal-management",
+  "version": "1.0.0",
+  "description": "It's a meal managemant Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jewelmahmud/Meal-management.git"
+  },
+  "keywords": [
+    "Meal",
+    "Management"
+  ],
+  "author": "Jewel Mahmud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jewelmahmud/Meal-management/issues"
+  },
+  "homepage": "https://github.com/Jewelmahmud/Meal-management#readme"
+}
